@@ -1,0 +1,4 @@
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-EraseAll.dll
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-EraseAll.pdb
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-EraseAll\Amos26-EraseAll\obj\Debug\Amos26-EraseAll.dll
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-EraseAll\Amos26-EraseAll\obj\Debug\Amos26-EraseAll.pdb
